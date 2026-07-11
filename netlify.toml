@@ -1,0 +1,5 @@
+[build]
+  functions = "Netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
